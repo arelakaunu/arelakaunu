@@ -1,4 +1,4 @@
-# Hi, I’m Arel Akaunu 👋
+# Hi, I’m Arel 👋
 
 I'm a data scientist with a background in physics from the University of Cambridge and currently pursuing an MSc in Data Science at Liverpool John Moores University. I enjoy working at the intersection of data, technology, and problem-solving—especially within finance, healthcare, and innovation-focused environments.
 
