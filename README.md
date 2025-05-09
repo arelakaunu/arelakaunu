@@ -1,43 +1,14 @@
-# Hi, I’m Arel 👋
+<h1 align="center">Hi 👋, I'm Arel</h1>
+<h3 align="center">A machine learning engineer with a background in physics from Cambridge University</h3>
 
-I'm a data scientist with a background in physics from the University of Cambridge and currently pursuing an MSc in Data Science at Liverpool John Moores University. I enjoy working at the intersection of data, technology, and problem-solving—especially within finance, healthcare, and innovation-focused environments.
+- 👨‍💻 All of my projects are available at [arelakaunu.github.io](arelakaunu.github.io)
 
-## 🔧 Technical Skills
+- 📫 How to reach me **areloakaunu@gmail.com**
 
-- **Languages & Tools**: Python, SQL, R, MATLAB, Java, C++, HTML  
-- **Libraries & Frameworks**: Scikit-learn, PyTorch, Pandas, NumPy, OpenCV, PySpark  
-- **Other Tools**: Streamlit, Power BI, Excel (VBA), Git, Linux, LaTeX  
-- **Tech Interests**: Machine Learning, Predictive Modelling, Natural Language Processing, Big Data Systems
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/arel-akaunu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="arel-akaunu" height="30" width="40" /></a>
+</p>
 
-## 💼 Experience
-
-- **HSBC – Digital Innovation Intern**  
-  Worked on mobile app deployment across global teams, collaborating with cyber, cloud, and infrastructure departments. Analysed systems for security compliance and ensured vendor alignment with internal protocols.
-
-- **Tutoring – Maths & Physics (GCSE & A-Level)**  
-  Led small-group sessions, developing my ability to break down complex technical concepts for diverse audiences.
-
-## 📚 Academic Projects
-
-- **Multivariate Analysis on the Dow Jones Index**  
-  Built a binary classification model in R to predict weekly stock movements using financial indicators.
-
-- **Live Social Media Sentiment Analysis**  
-  Used PySpark to stream and analyse Reddit data in real time. Visualised insights with Streamlit and discussed implications for cybersecurity trends.
-
-- **Human Activity Recognition**  
-  Used convolutional neural networks (CNNs) to classify physical activity from wearable accelerometer data.
-
-- **Graphite Imaging with OpenCV**  
-  Analysed oxidation pit growth in graphite under varying temperatures using Python and OpenCV as part of materials research at Cambridge.
-
-## 🧠 What I'm Exploring Now
-
-- Applying deep learning to healthcare datasets  
-- Combining domain knowledge with machine learning for financial modelling  
-- Enhancing data visualisation for stakeholder storytelling
-
-## 🌐 Let's Connect
-
-I'm open to collaboration, data science internships, and research-driven opportunities.  
-Feel free to reach out or explore my pinned repositories!
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
